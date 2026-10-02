@@ -8,6 +8,27 @@ Predictive maintenance utilizes real-time sensor telemetry to anticipate mechani
 
 ---
 
+## 🖼️ Streamlit Web Application Screenshots
+
+The project includes an interactive Streamlit web application featuring dual theme support (Dark/Light modes), custom typography, glassmorphism cards, micro-animations, and real-time engine telemetry prediction.
+
+### 📋 1. Executive Overview & Key Telemetry Metrics
+![Streamlit Executive Dashboard](outputs/figures/streamlit_home.png)
+
+### 📊 2. Dataset Architecture & Sensor Data Dictionary
+![Dataset Architecture & Data Dictionary](outputs/figures/streamlit_dataset.png)
+
+### 📈 3. Exploratory Data Analysis & Detailed Graph Explanations
+![Exploratory Data Analysis Dashboard](outputs/figures/streamlit_eda.png)
+
+### 🤖 4. AI Model Benchmark & Performance Evaluation
+![Model Benchmark & Evaluation Metrics](outputs/figures/streamlit_metrics.png)
+
+### 🔮 5. Live Telemetry Maintenance Predictor Terminal
+![Live Telemetry Maintenance Predictor](outputs/figures/streamlit_predictor.png)
+
+---
+
 ## 2. Problem Statement
 *"A fleet operator wants to study patterns that may indicate maintenance requirements."*
 
