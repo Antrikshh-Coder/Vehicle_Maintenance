@@ -1,8 +1,6 @@
 # Vehicle Maintenance Analysis and Prediction Using Machine Learning
 
 > **Academic ML Project — Case Study No. 67**  
-> A complete, exam-ready Machine Learning pipeline and Streamlit web application for vehicle engine predictive maintenance.
-
 ---
 
 ## 1. Project Overview
@@ -174,12 +172,7 @@ Output:
 2. Binary classification does not specify exact internal component failure modes.
 3. Telemetry records are treated as steady-state observations rather than dynamic time-series streams.
 
----
 
-## 16. Future Scope
-1. Implement time-series models (LSTM/GRUs) for Remaining Useful Life (RUL) estimation.
-2. Incorporate multi-class labels for specific fault diagnosis (e.g., fuel injector fault vs. coolant leak).
-3. Connect live MQTT telemetry streams directly to the Streamlit app.
 
 ---
 
@@ -191,5 +184,3 @@ Output:
 
 ---
 
-## 18. Author
-Academic ML Exam Project — Student Submission.
